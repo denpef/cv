@@ -41,7 +41,7 @@ Built pixel perfect products for 3 million users. Areas: food delivery, healthca
 
 <br>
 
-**Software Engineer - Aitu Pay/Aitu: Messaging & Calls.** Nur-Sultan (Astana), Kazakhstan. 08/17 – 07/19
+**Software Engineer - Aitu Pay/Aitu: Messaging & Calls.** Nur-Sultan (Astana), Kazakhstan. 07/18 – 07/19
 
 - Implemented 100% programmatic UI in Swift using UIKit.
 - Reduced codebase by implementing MVVM instead of VIPER application architecture.
@@ -51,7 +51,7 @@ Built pixel perfect products for 3 million users. Areas: food delivery, healthca
 
 <br>
 
-**Co-Founder - Slonbook.** Moscow, Russia. 07/15 – 07/17
+**Co-Founder - Slonbook.** Moscow, Russia. 01/18 – 07/18
  
 - Created an iOS app that delivers online booking service for beauty salons
 
