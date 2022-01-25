@@ -5,7 +5,7 @@
 
 <br>
 
-Built pixel perfect products for 3 million users. Areas: food delivery, healthcare, fintech, retail, start-up.
+Built pixel-perfect products for 3 million users. Areas: food delivery, healthcare, fintech, retail, start-up.
 
 <br>
 
@@ -14,7 +14,7 @@ Built pixel perfect products for 3 million users. Areas: food delivery, healthca
 - Achieved 60 FPS frequency while scrolling collections by addressing app performance issues.
 - Reduced build time by 50% (from 182 to 96 sec of clean build) by improving source code.
 - Co-authored code standards for iOS team of 4 people.
-- Increased testability and reduced CI execution time by 10% by proposing and implementing RxTest/RxBlocking frameworks to testing reactive code.
+- Increased testability and reduced CI execution time by 10% by proposing and implementing RxTest/RxBlocking frameworks to test reactive code.
 - Realized app design system that allows flexible design switching between color schemes.
 - Assisted in GraphQL implementation by working with a cross-functional team of 20 people.
 - Reduced code-review time by proposing and implementing automatic code formatting.
@@ -25,16 +25,16 @@ Built pixel perfect products for 3 million users. Areas: food delivery, healthca
 
 **Member of iOS Leadership Group - iTechArt Group.** Minsk, Belarus. 10/19 – Present 
 
-- Inspire collaboration and knowledge sharing by organized and led cross-team bi weekly meetups.
-- Interviewed 30 candidates for iOS position and 5 candidates for mobile-related positions (Android/Flutter).
+- Inspire collaboration and knowledge sharing by organized and leading cross-team bi-weekly meetups.
+- Interviewed 30 candidates for iOS positions and 5 candidates for mobile-related positions (Android/Flutter).
 - Mentored 2 Junior Engineers and helped them grow to Middle Engineers in 12 months.
-- Evaluated the complexity and time of project development for a 4 companies.
+- Evaluated the complexity and time of project development for 4 companies.
 
 <br>
 
 **Lead iOS Developer - NDA. New York-based Migraine Treatment Company** Minsk, Belarus. 02/21 – 06/21 
 
-- Assessed the requirements for iOS app and organized development process from the stretch.
+- Assessed the requirements for iOS app and organized the development process from the stretch.
 - Controlled and coordinated development by reviewing pull requests and holding daily meetings.
 
 `Swift` `GraphQL/Apollo` `AWS Pinpoint` 
