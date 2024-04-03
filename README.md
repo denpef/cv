@@ -5,11 +5,17 @@
 
 <br>
 
-Built pixel-perfect products for 3 million users. Areas: food delivery, healthcare, fintech, retail, start-up.
+Built a fully composable end-to-end store CX platform, revolutionizing customer experiences across B2B domains including Clienteling, Remote Selling, POS and E-com systems, and more.
+Delivered pixel-perfect products for 3 million users, with a diverse project portfolio in Food Delivery, Healthcare, and FinTech.
 
-<br>
+<be>
 
-**Software Engineer - NDA. New York-based Prepared Meal Delivery Company** Minsk, Belarus. 12/19 – Present 
+**iOS Software Engineer - Mercaux.** Barcelona, Spain. 02/22 – Present 
+
+- 
+
+
+**iOS Software Engineer - NDA. New York-based Prepared Meal Delivery Company** Minsk, Belarus. 12/19 – 02/22 
 
 - Achieved 60 FPS frequency while scrolling collections by addressing app performance issues.
 - Reduced build time by 50% (from 182 to 96 sec of clean build) by improving source code.
@@ -41,7 +47,7 @@ Built pixel-perfect products for 3 million users. Areas: food delivery, healthca
 
 <br>
 
-**Software Engineer - Aitu Pay/Aitu: Messaging & Calls.** Nur-Sultan (Astana), Kazakhstan. 07/18 – 07/19
+**iOS Software Engineer - Aitu Pay/Aitu: Messaging & Calls.** Nur-Sultan (Astana), Kazakhstan. 07/18 – 07/19
 
 - Implemented 100% programmatic UI in Swift using UIKit.
 - Reduced codebase by implementing MVVM instead of VIPER application architecture.
