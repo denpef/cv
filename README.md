@@ -1,6 +1,6 @@
 
 # Denis Efimov
-#### iOS Software Engineer | Russia Permanent Resident | 5+ years of experience 
+#### iOS Software Engineer | Spain | 7+ years of experience 
 [GitHub](https://github.com/denpef) | [LinkedIn](https://www.linkedin.com/in/denis-efimov-ios-dev) | [Email](mailto:denis.appdevelopment@gmail.com)
 
 <br>
@@ -12,8 +12,11 @@ Delivered pixel-perfect products for 3 million users, with a diverse project por
 
 **iOS Software Engineer - Mercaux.** Barcelona, Spain. 02/22 – Present 
 
-- 
+- Led the iOS team in architecting and launching key projects, including an innovative Appointments module and a groundbreaking Task Management system, deeply integrating with the clienteling system, ensuring timely delivery essential for securing essential company gains.
+- Boosted app stability and performance to over 99% crash-free sessions by refining memory management and CoreData logic for multi-million record tables, enhancing database syncs and queries.
+- Automated the CI/CD and release management process, drastically reducing release time and streamlining deployment, while ensuring compliance through automated updates for APNS and App Store Connect certifications.
 
+`Swift`   `Objective-C`   `ReactiveSwift/ReactiveCocoa`    `CoreData`
 
 **iOS Software Engineer - NDA. New York-based Prepared Meal Delivery Company** Minsk, Belarus. 12/19 – 02/22 
 
